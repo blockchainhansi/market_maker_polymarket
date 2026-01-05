@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environment files (NEVER commit - contain private keys!)
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+
+# State files
+mm_state.json
+*.log
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# OS
+.DS_Store
+**/.DS_Store

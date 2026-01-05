@@ -1,0 +1,20 @@
+# Polymarket Top-of-Book Market Maker - Dependencies
+
+# Polymarket CLOB client (official Python SDK)
+py-clob-client>=0.18.0
+
+# WebSocket client (for USER channel - fill detection)
+websocket-client>=1.7.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
+# Ethereum utilities (for signing)
+eth-account>=0.11.0
+web3>=6.15.0
+
+# HTTP client
+httpx>=0.27.0
+
+# Logging
+structlog>=24.1.0

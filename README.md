@@ -35,7 +35,7 @@ If you buy 10 YES at $0.48 and 10 NO at $0.48:
 ### Installation
 
 ```bash
-cd mm_strategy
+cd src
 pip install -r requirements.txt
 ```
 
@@ -106,7 +106,7 @@ For each orderbook side:
 ## File Structure
 
 ```
-mm_strategy/
+src/
 ├── main.py              # Entry point
 ├── config.py            # Configuration
 ├── strategy_engine.py   # Trading logic

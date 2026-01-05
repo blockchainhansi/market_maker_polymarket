@@ -129,8 +129,8 @@ def load_config(env_path: Optional[str] = None) -> Config:
     else:
         if Path(".env").exists():
             load_dotenv(".env")
-        elif Path("mm_strategy/.env").exists():
-            load_dotenv("mm_strategy/.env")
+        elif Path("src/.env").exists():
+            load_dotenv("src/.env")
         else:
             load_dotenv()
     

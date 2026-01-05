@@ -80,7 +80,7 @@ def setup_logging(
         The root logger for the application
     """
     # Get the root logger for our application
-    logger = logging.getLogger("mm_strategy")
+    logger = logging.getLogger("src")
     logger.setLevel(getattr(logging, level.upper(), logging.INFO))
     
     # Clear any existing handlers
@@ -113,7 +113,7 @@ def get_logger(name: str) -> logging.Logger:
     Returns:
         Logger instance
     """
-    return logging.getLogger(f"mm_strategy.{name}")
+    return logging.getLogger(f"src.{name}")
 
 
 # Strategy-specific log helpers

@@ -143,3 +143,7 @@ src/
 4. **No Guarantees**: There is no guarantee of profitability. Automated trading involves significant risk, including the potential loss of your entire investment.
 
 5. **Use at Your Own Risk**: By using this code, you acknowledge that you understand the risks involved and agree to take full responsibility for your actions.
+
+## Contact
+
+This is a highly nerfed version. If you are a hedgefund guy or developer who wants to collaborate on the competetive version, shoot me a message on my TG: Mankiw2

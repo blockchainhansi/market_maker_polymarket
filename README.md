@@ -146,4 +146,4 @@ src/
 
 ## Contact
 
-This is a highly nerfed version. If you are a quant or developer who wants to collaborate on the competetive version, shoot me a message on my TG: Mankiw2
+This is a highly nerfed version. If you are a quant or developer who wants to collaborate on the competitive version, shoot me a message on my TG: Mankiw2

@@ -10,7 +10,6 @@ __pycache__/
 **/.env.*
 
 # State files
-mm_state.json
 *.log
 
 # IDE

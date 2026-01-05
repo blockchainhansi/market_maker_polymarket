@@ -68,7 +68,7 @@ Press `Ctrl+C` to stop gracefully.
 
 ## Strategy
 
-This implementation is follows the algorithm and dynamic inventory-based bid size idea by **Fushimi et al. (2018)** , which is attached in this repo, adapted for binary prediction markets. It is similar to Avellaneda and Stoikov (2008). 
+This implementation is follows the algorithm and dynamic inventory-based bid size idea by **Fushimi et al. (2018)** , which is attached in this repo, adapted for binary prediction markets. It is similar to **Avellaneda and Stoikov (2008)**. 
 
 The strategy implements key concepts from optimal market making theory:
 
